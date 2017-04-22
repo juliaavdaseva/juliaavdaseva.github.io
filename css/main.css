@@ -72,7 +72,7 @@ hr {
 }
 
 #headerwrap {
-  background: url(../img/header-bg.jpg) no-repeat center top;
+  background: url(../img/header2.jpg) no-repeat center top;
   margin-top: -10px;
   padding-top: 20px;
   text-align: center;
@@ -101,6 +101,13 @@ hr {
   color: white;
   font-size: 40px;
   letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+#headerwrap h6 {
+  color: white;
+  font-size: 13px;
+  letter-spacing: 1px;
   text-transform: uppercase;
 }
 
